@@ -1,6 +1,3 @@
-
-
-
 <p align="center">
 	<img src="asset/banner.png" alt="Project Banner" width="600" />
 </p>
