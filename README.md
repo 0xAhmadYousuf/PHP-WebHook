@@ -82,5 +82,5 @@ README.md
 
 <p align="left">
 	<img src="asset/logo.png" alt="Project Logo" width="48" style="vertical-align:middle; margin-right:8px;" />
-	Designed & Developed by <a href="https://0xAhmadYousufcom" target="_blank">AhmadYousuf</a>
+	Designed & Developed by <a href="https://0xAhmadYousuf.com" target="_blank">AhmadYousuf</a>
 </p>
