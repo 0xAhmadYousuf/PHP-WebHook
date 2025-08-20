@@ -33,6 +33,7 @@ A modern PHP-based webhook endpoint and log viewer with a beautiful dashboard.
 
 
 
+
 ## Usage
 
 1. **Deploy** the contents of `src/` to your PHP server.
@@ -42,6 +43,16 @@ A modern PHP-based webhook endpoint and log viewer with a beautiful dashboard.
 	 - Password: `xyz`
 4. **Dashboard**: Browse, search, filter, and delete logs. View request details, payloads, headers, and cookies.
 
+
+
+
+## Dashboard Preview
+
+<p align="center">
+	<img src="asset/panel.png" alt="Dashboard Panel Preview" width="100%" />
+	<br>
+	<em>Dashboard panel preview</em>
+</p>
 
 ## File Structure
 
