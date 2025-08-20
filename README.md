@@ -1,7 +1,16 @@
 
+
+
+<p align="center">
+	<img src="asset/banner.png" alt="Project Banner" width="600" />
+</p>
+
 # PHP-WebHook
 
 A modern PHP-based webhook endpoint and log viewer with a beautiful dashboard.
+
+
+
 
 ## Features
 
@@ -12,7 +21,17 @@ A modern PHP-based webhook endpoint and log viewer with a beautiful dashboard.
 - **AJAX Actions**: Delete log files or individual requests without page reloads.
 - **Statistics**: View request method and content type stats per log file.
 - **Beautiful UI**: Neon-glass styled dashboard, mobile-friendly, with custom scrollbars and icons.
-- **Assets**: Includes `banner.png`, `logo.png`, and `panel.png` in the `asset/` folder.
+- **Branding Assets**: Professional `logo.png`, `banner.png`, and `panel.png` included in the `asset/` folder for use in your dashboard and documentation.
+
+---
+
+### Asset Usage
+
+- **Banner**: Displayed at the top of this README for project presentation.
+- **Logo**: Provided in `asset/logo.png` for branding; use in dashboard header or documentation as needed.
+- **Panel**: Preview of the dashboard UI, available in `asset/panel.png` for docs or presentations.
+
+
 
 ## Usage
 
@@ -22,6 +41,7 @@ A modern PHP-based webhook endpoint and log viewer with a beautiful dashboard.
 	 - Username: `admin`
 	 - Password: `xyz`
 4. **Dashboard**: Browse, search, filter, and delete logs. View request details, payloads, headers, and cookies.
+
 
 ## File Structure
 
@@ -42,11 +62,17 @@ LICENSE
 README.md
 ```
 
+
 ## Security
 
 - Simple session-based login for admin dashboard.
 - Webhook endpoint is open for receiving requests.
 
+
+
 ## Credits
 
-Designed & Developed by [AhmadYousuf](https://0xAhmadYousufcom)
+<p align="left">
+	<img src="asset/logo.png" alt="Project Logo" width="48" style="vertical-align:middle; margin-right:8px;" />
+	Designed & Developed by <a href="https://0xAhmadYousufcom" target="_blank">AhmadYousuf</a>
+</p>
